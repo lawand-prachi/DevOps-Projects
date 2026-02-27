@@ -1,0 +1,3 @@
+backups/
+restore_test/
+*.tar.gz
